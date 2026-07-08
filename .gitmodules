@@ -1,6 +1,6 @@
 [submodule "T-Rex"]
 	path = T-Rex
-	url = https://github.com/ZhuoyangLiu2005/T-Rex
+	url = https://github.com/He0he0/T-Rex.git
 [submodule "lerobot"]
 	path = lerobot
-	url = https://github.com/huggingface/lerobot
+	url = https://github.com/He0he0/lerobot.git
